@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+
+   <title> FOUR FRAG MEN ESPORSTS </title>
+
+   <link rel="icon" href="img/f4m.jpg">
+
+   <link rel="stylesheet" href="style.css">
+    
+    
+</head>
+
+<body>
+
+<video autoplay loop controls>
+   <source src="video/intro.mp4">
+     Your browser do not support HTML5 video 
+</video>
+
+<audio controls>
+   <source src="audio/audio.mp3">
+</audio>
+
+
+</body>
+
+
+</htmL>
