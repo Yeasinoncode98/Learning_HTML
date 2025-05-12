@@ -1,0 +1,33 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <link rel="icon" href="img/logo.jpg">
+    <title> HTML IS FUN </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body> 
+    <h1>I am Yaesin Arafat</h1>
+    <h2>Hello h2</h2>
+    <h3>Hello h3</h3>
+    <h4>Hello h4</h4>
+    <h5>Hello h5</h5>
+    <h6>Hello h6</h6>
+
+    <h1 style="font-size: 14px;">I am Yeasin Arafat</h1>
+    <h6 style="font-size: 60px;">Hello h6</h1>
+    <h6 style="font-size: 45px;">Hello h4</h4>
+    
+    <!--
+    used css to change language lentghs and header files    
+    -->
+
+
+
+
+</body>
+
+</html>
