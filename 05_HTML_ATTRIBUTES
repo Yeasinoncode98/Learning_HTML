@@ -1,0 +1,18 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+   <title> HTML IS FUN </title>
+</head>
+
+</html>
+
+<body> 
+    <h1 title="This is a title"> Title </h1>
+    <p> learning html for web development easy to learn </p>
+    
+    <img src="nature.jpg" width="200" height="200">
+</body>
+
+</html>
