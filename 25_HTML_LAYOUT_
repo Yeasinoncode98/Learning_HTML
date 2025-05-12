@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+
+   <title> FOUR FRAG MEN ESPORSTS </title>
+
+   <link rel="icon" href="img/f4m.jpg">
+
+   <link rel="stylesheet" href="style.css">
+    
+    
+</head>
+
+<body>
+
+   <header>
+ <h1>FOUR FRAG MEN ESPORTS</h1>
+   </header>
+   
+   <nav>
+      <ul>
+      
+         <li><a href="">Home</a></li>
+         <li><a href="">About</a></li>
+         <li><a href="">Service</a></li>
+         <li><a href="">contact</a></li>
+
+      </ul>
+   </nav>
+
+   <section id="hero">
+      <h1>Welcome to our esports team</h1>
+      <p>Lorem ipsum dolor sit, amet consectetur
+          adipisicing elit. Veritatis, explicabo!</p>
+      <a href="">Learn More</a>
+   </section>
+
+   <section>
+      <div>
+         <h2>This is an esports team for pubg</h2>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum similique officiis 
+            consequuntur fugit quis tenetur rerum
+             adipisci, sit amet cumque.</p>
+      </div>
+      <aside>
+
+     <h2>Latest post</h2>
+<ul>
+      
+         <li><a href="">Latest Post</a></li>
+         <li><a href="">Latest Post</a></li>
+         <li><a href="">Latest Post</a></li>
+         <li><a href="">Latest Post</a></li>
+         
+</ul>
+
+      </aside>
+   </section>
+
+<footer>
+   <p>All rights reserved by @ FOUR FRAG MEN ESPORTS</p>
+</footer>
+
+
+
+
+</body>
+
+
+</htmL>
+
+
+
+
+<!--
+USED CSS HERE TO BUILD THIS WEB LAYOUT
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    background: green ;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: red;
+}
+
+nav{
+    background: #ff6b81;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: red;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a{
+    color: #fff ;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+}
+
+div{
+    background: #70a1ff;
+    flex-basis: 60% ;
+    padding: 25px 30px;
+
+}
+
+
+aside{
+    padding: 25px 30px;
+    background: yellow;
+    flex-basis: 38%;
+
+}
+
+aside ul {
+    margin-left: 18px;
+    margin-top: 10px;
+
+}
+
+footer{
+    margin-top: 10px;
+    background: violet ;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+#hero{
+    background: royalblue ;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: white;
+    height: 300px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#hero h1{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+#hero a{
+    background: aqua;
+    color: white;
+    display: inline-block;
+    padding: 10px 25px;
+    margin-top: 15px;
+
+}
+
+
+
+-->
