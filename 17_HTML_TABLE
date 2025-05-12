@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+<link rel="icon" href="img/f4m.jpg">
+
+<title> FOUR FRAG MEN ESPORSTS </title>
+
+<link rel="stylesheet" href="style.css">
+    
+    
+</head>
+
+
+<body>
+   <table style="color: tomato">  
+
+    <th>Serial</th>
+    <th>Language</th>
+    <th>Fun</th>
+
+</tr>
+
+<tr>
+    
+    <td>01</td>
+    <td>HTML</td>
+    <td>YES</td>
+
+</tr>
+
+<tr>
+    
+    <td>02</td>
+    <td>CSS</td>
+    <td>YES</td>
+
+</tr>
+
+<tr>
+ 
+    <td>03</td>
+    <td>JS</td>
+    <td>YES</td>
+    
+</tr>
+
+ <table style="color: rgb(255, 0, 0);">
+<tr>
+    <th>Serial</th>
+    <td>01</td>
+    <td>02</td>
+    <td>03</td>
+      
+
+</tr>
+
+<tr>
+    <th>Language</th>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JS</td>
+
+</tr>
+
+<tr>
+    <th>Fun</th>
+    <td>YES</td>
+    <td>YES</td>
+    <td>YES</td>
+
+</tr>
+
+   </table>
+
+   </table>
+
+
+
+</body>
+
+
+</htmL>
