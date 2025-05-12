@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+    <title> HTML IS FUN </title>
+    
+</head>
+
+
+<body>
+
+    <p>Lorem, ipsum dolor sit adipisicing elit.<strong style="color: blue;"> Odit eaque facere,
+         laudantium autem vel eos illo cumque necessitatibus </strong>
+
+         <em> <small>praesentium? Possimus, hic blanditiis nobis ut mollitia 
+         aspernatur,deleniti in facilis porro odit, voluptate </small> </em>
+
+         <mark>distinctio sed minima <del>ab soluta ea quo unde</del> dolor dolores</mark>
+         perspiciatis cum fuga provident omnis
+
+          <ins>impedit! </ins> 
+
+         <u> Nihil </u>,
+
+          delectus!</p>
+
+    
+          <p>(a+b)<sup>2</sup>=a<sup>2</sup>+2ab+b<sup>2</sup></p>
+
+          <p>log<sub>10</sub>(10)=1 </p>
+          <p>log<sub>10</sub>(100)=2 </p>
+</body>
+
+
+</html>
