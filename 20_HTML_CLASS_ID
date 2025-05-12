@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+<link rel="icon" href="img/f4m.jpg">
+
+<title> FOUR FRAG MEN ESPORSTS </title>
+
+<link rel="stylesheet" href="style.css">
+     
+</head>
+
+
+<body>
+
+<div id="first">
+  <h3> This is title</h3>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+     Doloribus ad, obcaecati ipsam provident eius optio
+     voluptate similique? Reprehenderit, dolore eaque?</p>
+
+<a href="#">Read More</a>
+
+</div>
+
+<div class="two title">
+  <h3> This is title</h3>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+     Doloribus ad, obcaecati ipsam provident eius optio
+     voluptate similique? Reprehenderit, dolore eaque?</p>
+
+<a href="#">Read More</a>
+
+</div>
+
+<div class="two">
+  <h3> This is title</h3>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+     Doloribus ad, obcaecati ipsam provident eius optio
+     voluptate similique? Reprehenderit, dolore eaque?</p>
+
+<a href="#">Read More</a>
+
+</div>
+
+<div id="four" class="title">
+  <h3> This is title</h3>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+     Doloribus ad, obcaecati ipsam provident eius optio
+     voluptate similique? Reprehenderit, dolore eaque?</p>
+
+<a href="#">Read More</a>
+
+</div>
+    
+
+
+
+</body>
+
+</htmL>
