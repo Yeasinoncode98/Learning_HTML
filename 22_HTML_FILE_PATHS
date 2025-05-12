@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+
+   <title> FOUR FRAG MEN ESPORSTS </title>
+
+   <link rel="icon" href="img/f4m.jpg">
+
+   <link rel="stylesheet" href="css/custom.css">
+    
+    
+</head>
+
+<body>
+
+<h1 style="color: navy;">Home</h1>
+
+</body>
+
+
+</htmL>
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+
+   <title> HTML </title>
+
+   <link rel="icon" href="img/f4m.jpg">
+
+   <!-- <link rel="stylesheet" href="../../css/custom.css"> 
+    for going step by step like from test html to live server then from
+    live server to css
+    test html - live server - css
+   -->
+
+   <link rel="stylesheet" href="/css/new.css">
+    
+    
+</head>
+
+<body>
+    
+
+</body>
+
+
+</htmL>
+
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+
+   <title> HOME</title>
+
+   <link rel="icon" href="img/f4m.jpg">
+
+   <link rel="stylesheet" href="../css/custom.css">
+    
+    
+</head>
+
+<body>
+
+<h1>Home</h1>
+</body>
+
+
+</htmL>
