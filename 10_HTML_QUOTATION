@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+    <title> HTML IS FUN </title>
+    
+</head>
+
+
+<body>
+
+<P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate ullam,
+     iusto ipsum non possimus quaerat sed consectetur officiis repellendus 
+     consequatur, asperiores voluptatibus laborum facilis? Dignissimos 
+     iusto cupiditate dolorem exercitationem dolore.</P>
+
+<blockquote>
+    You can't be in love with a Google search
+</blockquote>
+
+<q>
+    I'm a visual thinker, not a language-based thinker
+</q>
+
+<p><abbr title="Hyper Text Markup Language">HTML</abbr> is not a programming language</p>
+
+<address>
+    Rajghat,Abhaynagar,Jashore
+</address>
+
+<p>The <cite> Mona Lisa </cite> is a half-length portratit
+ painting by italian artist Leonardo da Vinci.</p>
+
+
+<bdo dir="rtl">HTML</bdo>
+
+</body>
+
+
+</htmL>
