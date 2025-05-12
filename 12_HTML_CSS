@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+    <title> HTML IS FUN </title>
+    <style>
+        p{
+            font-size: 20px;
+        }
+    </style>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+
+
+<body>
+    <!--
+    This line will ignored by the user
+    -->
+
+<P style="color:yellow;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate ullam,
+     iusto ipsum non possimus quaerat sed consectetur officiis repellendus 
+     consequatur, asperiores voluptatibus laborum facilis? Dignissimos 
+     iusto cupiditate dolorem exercitationem dolore.</P>
+
+    
+
+<q>
+    I'm a visual thinker, not a language-based thinker
+</q>
+
+
+</body>
+
+
+</htmL>
