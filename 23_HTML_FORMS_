@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+
+   <title> FOUR FRAG MEN ESPORSTS </title>
+
+   <link rel="icon" href="img/f4m.jpg">
+
+   <link rel="stylesheet" href="style.css">
+    
+    
+</head>
+
+<body>
+
+<form action="" class="one">
+
+   <input type="radio">
+   <label for="">HTML</label>
+
+   <input type="checkbox">
+   <label for="">CSS</label>
+
+
+
+</form>
+
+<form>
+
+<label for="">Name</label>
+<input type="text" placeholder="Enter Your Name">
+
+<label for="">Email</label>
+<input type="email" placeholder="Enter Your Email">
+
+<label for="">Password</label>
+<input type="password" placeholder="Enter Your password">
+
+
+<label for="">Phone</label>
+<input type="number" placeholder="Enter Your  phone number">
+
+<label for="">Message</label>
+<textarea placeholder="Your Messeage"></textarea>
+<input type="submit" value="Send Message">
+
+<label for="">Complain</label>
+<textarea placeholder="Enter Your Complain"></textarea>
+<input type="submit" value="Send Complain">
+
+<label for="">Customer Review</label>
+<textarea name="Customer Review" id=" Customer Review" placeholder="Enter Your Review"></textarea>
+<input type="submit" value="Send Review">
+
+<!-- We can use this with <textarea name:"" id:"" placeholder:""></textarea>
+or we can use directly <textarea placeholder:""></textarea>
+-->
+<label for="">Customer Review</label>
+<textarea placeholder="Enter your review"></textarea>
+<input type="submit" value="Send Review">
+
+
+
+ 
+</form>
+
+</body>
+
+
+</htmL>
