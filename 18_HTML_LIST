@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+<link rel="icon" href="img/f4m.jpg">
+
+<title> FOUR FRAG MEN ESPORSTS </title>
+
+<link rel="stylesheet" href="style.css">
+     
+</head>
+
+
+<body>
+
+<ul>
+
+    <li><a href="">Home</a></li>
+    <li><a href="">About</a></li>
+    <li><a href="">Service</a></li>
+    <li><a href="">Contact</a></li>
+
+</ul>
+
+
+<!--
+   Disc
+   Circle
+   Square
+   None 
+
+   For unordered list
+-->
+
+<ul style="list-style-type: square;">
+
+<li>HTML</li>
+<li>CSS</li>
+<li>JS</li>
+
+</ul>
+
+<!-- 
+Type = A
+Type = a
+Type = I
+Type = i
+Type = 1
+
+For ordered list
+-->
+
+<ol type="A">
+
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS</li>
+
+</ol>
+
+</body>
+
+
+</htmL>
