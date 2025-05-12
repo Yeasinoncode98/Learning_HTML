@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+    <title> HTML IS FUN </title>
+    
+</head>
+
+
+<body> 
+    <h1 style="color:red"> HELLO HTML</h1>
+    <P>Facilis, debitis! Totam, autem. Pariatur laudantium, soluta ipsa quasi exercitationem aliquam quo dignissimos ipsam.<br> Dolores, ad. Quam eos perferendis facere repudiandae expedita?</P>
+    
+<p> Officia exercitationem dolor iure dolores dolore sequi non suscipit sunt fuga sit.</p>
+<hr>
+
+<p style="font-family: 'Courier New', Courier, monospace; color:blueviolet;font-size:20px"> Asperiores deleniti, minus laudantium dignissimos provident ea itaque aspernatur facere libero esse quisquam aperiam a, adipisci illo, ex totam molestiae? Similique aperiam praesentium ea eligendi odit maiores itaque tenetur ducimus quidem qui soluta, delectus officia assumenda accusantium repudiandae possimus expedita aliquam odio.</p>
+
+<pre style="color:violet">
+ William Shakespeare ,
+ 
+ Sonnet 33.
+
+ Even so my sun one early morn did shine,
+
+ With all triumphant splendour on my brow;
+
+ But out, alack, he was but one hour mine,
+
+ The region cloud hath mask him from me now,
+</pre>
+
+</body>
+
+</html>
