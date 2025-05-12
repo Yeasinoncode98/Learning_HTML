@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+    <title> HTML IS FUN </title>
+    <style>
+        p{
+            font-size: 20px;
+        }
+    </style>
+    <link rel="stylesheet" href="style.css">
+    
+    <script> 
+     alert('Do you like the video?'); 
+
+    </script>
+
+    
+</head>
+
+
+<body>
+    <!--
+    This line will ignored by the user
+    -->
+
+<P style="color:green;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate ullam,
+     iusto ipsum non possimus quaerat sed consectetur officiis repellendus 
+     consequatur, asperiores voluptatibus laborum facilis? Dignissimos 
+     iusto cupiditate dolorem exercitationem dolore.</P>
+
+    
+
+<q style="color: blue;">
+    I'm a visual thinker, not a language-based thinker
+</q>
+
+<!--
+<script> 
+     alert('last'); 
+
+    </script>
+-->
+<script src="app.js"> </script>
+
+</body>
+
+
+</htmL>
