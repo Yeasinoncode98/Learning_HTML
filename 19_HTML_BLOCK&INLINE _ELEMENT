@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+<link rel="icon" href="img/f4m.jpg">
+
+<title> FOUR FRAG MEN ESPORSTS </title>
+
+<link rel="stylesheet" href="style.css">
+     
+</head>
+
+
+<body>
+
+<!--BLOCK ELEMENT -->
+
+<h1>Hello</h1>
+<h1>Hi</h1>
+
+<h1><a href="#">Home</a></h1>
+
+<!--good practise
+<h1><a href="#">Home</a></h1>
+USED INLINE ELEMENT UNDER BLOCK ELEMENT 
+-->
+
+
+<!-- 
+Bad practise
+<a href="#">
+<h1> Home</h1></a>
+ -->
+
+<!-- INLINE BLOCK ELEMENT -->
+
+<a href="#">
+
+<strong>Hi</strong>
+<strong>Hello</strong>
+
+
+</body>
+
+
+</htmL>
