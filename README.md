@@ -1,7 +1,5 @@
 # 🌟 Stunning HTML Project by Yeasinoncode98 🌟
 
-![Header](https://raw.githubusercontent.com/Yeasinoncode98/Learning_HTML/main/assets/header-image.png)
-
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=blueviolet)](https://github.com/Yeasinoncode98/Learning_HTML)
 [![GitHub Stars](https://img.shields.io/github/stars/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=yellowgreen)](https://github.com/Yeasinoncode98/Learning_HTML/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=orange)](https://github.com/Yeasinoncode98/Learning_HTML/network/members)
@@ -14,20 +12,11 @@
 Welcome to *Yeasinoncode98's* HTML learning repository!  
 This project is a showcase of clean, modern, and responsive HTML structure — ideal for practicing and learning web fundamentals.
 
-- 💎 Semantic, clean HTML5 code  
-- ⚡ Fast and lightweight  
-- 📱 Fully mobile responsive  
-- 🎯 SEO-ready markup  
-- 🎨 Easy to modify and customize
-
 ---
 
 ## 🚀 Live Demo
 
-Experience it live here:  
 [👉 View Live Demo](https://yeasinoncode98.github.io/Learning_HTML)
-
-(Make sure GitHub Pages is enabled for this repo)
 
 ---
 
@@ -35,11 +24,11 @@ Experience it live here:
 
 ```plaintext
 /
-├── index.html          # Main landing page
-├── css/                # Stylesheets
-│   └── styles.css      # Main CSS file
-├── js/                 # JavaScript files (optional)
-└── assets/             # Images, icons, fonts, etc.
+├── index.html          
+├── css/
+│   └── styles.css      
+├── js/
+└── assets/
 
 🛠 Installation & Usage
 	1.	Clone this repo
