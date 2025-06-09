@@ -1,34 +1,38 @@
-# 🌟 Stunning HTML Project by Yeasinoncode98 🌟
+# 🌟 Beautiful HTML Learning Project — by Yeasinoncode98 🌟
 
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=blueviolet)](https://github.com/Yeasinoncode98/Learning_HTML)
-[![GitHub Stars](https://img.shields.io/github/stars/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=yellowgreen)](https://github.com/Yeasinoncode98/Learning_HTML/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=orange)](https://github.com/Yeasinoncode98/Learning_HTML/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=red)](https://github.com/Yeasinoncode98/Learning_HTML/issues)
+[![Repo Size](https://img.shields.io/github/repo-size/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=blueviolet)](https://github.com/Yeasinoncode98/Learning_HTML)
+[![Stars](https://img.shields.io/github/stars/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=yellowgreen)](https://github.com/Yeasinoncode98/Learning_HTML/stargazers)
+[![Forks](https://img.shields.io/github/forks/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=orange)](https://github.com/Yeasinoncode98/Learning_HTML/network/members)
+[![Issues](https://img.shields.io/github/issues/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=red)](https://github.com/Yeasinoncode98/Learning_HTML/issues)
 
 ---
 
-## ✨ About The Project
+## ✨ Overview
 
-Welcome to *Yeasinoncode98's* HTML learning repository!  
-This project is a showcase of clean, modern, and responsive HTML structure — ideal for practicing and learning web fundamentals.
+Welcome to *Learning_HTML* — a personal project by [Yeasinoncode98](https://github.com/Yeasinoncode98) for mastering HTML!  
+This repo features clean, semantic, and beautifully structured HTML for beginners and developers to learn and build upon.
 
 ---
 
 ## 🚀 Live Demo
 
-[👉 View Live Demo](https://yeasinoncode98.github.io/Learning_HTML)
+👉 [View on GitHub Pages](https://yeasinoncode98.github.io/Learning_HTML)
+
+> Make sure GitHub Pages is enabled in your repo settings under **Pages > Source: main branch**.
 
 ---
 
-## 📁 Project Structure
+## 📁 Folder Structure
 
 ```plaintext
-/
-├── index.html          
+Learning_HTML/
+├── index.html          # Main file
 ├── css/
-│   └── styles.css      
+│   └── style.css       # Stylesheet
 ├── js/
+│   └── script.js       # JavaScript file (optional)
 └── assets/
+    └── images/         # Images and media
 
 🛠 Installation & Usage
 	1.	Clone this repo
