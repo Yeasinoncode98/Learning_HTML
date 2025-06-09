@@ -1,9 +1,9 @@
 # 🌟 Beautiful HTML Learning Project — by Yeasinoncode98 🌟
 
 [![Repo Size](https://img.shields.io/github/repo-size/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=blueviolet)](https://github.com/Yeasinoncode98/Learning_HTML)
-[![Stars](https://img.shields.io/github/stars/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=yellowgreen)](https://github.com/Yeasinoncode98/Learning_HTML/stargazers)
-[![Forks](https://img.shields.io/github/forks/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=orange)](https://github.com/Yeasinoncode98/Learning_HTML/network/members)
-[![Issues](https://img.shields.io/github/issues/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=red)](https://github.com/Yeasinoncode98/Learning_HTML/issues)
+[![GitHub stars](https://badgen.net/github/stars/Yeasinoncode98/Learning_HTML)](https://github.com/Yeasinoncode98/Learning_HTML/stargazers)
+[![GitHub forks](https://badgen.net/github/forks/Yeasinoncode98/Learning_HTML)](https://github.com/Yeasinoncode98/Learning_HTML/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=red)](https://github.com/Yeasinoncode98/Learning_HTML/issues)
 
 ---
 
