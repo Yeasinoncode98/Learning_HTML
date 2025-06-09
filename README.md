@@ -14,8 +14,6 @@ This repo features clean, semantic, and beautifully structured HTML for beginner
 
 ---
 
-> Make sure GitHub Pages is enabled in your repo settings under **Settings → Pages → Source: main branch**.
-
 ---
 
 ## 📁 Folder Structure
