@@ -1,6 +1,5 @@
 # 🌟 Stunning HTML Learning Phase by Yeasinoncode98 🌟
 
-![Header](https://raw.githubusercontent.com/Yeasinoncode98/your-html-repo/main/assets/header-image.png)
 
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/Yeasinoncode98/your-html-repo?style=for-the-badge&color=blueviolet)](https://github.com/Yeasinoncode98/your-html-repo)
 [![GitHub Stars](https://img.shields.io/github/stars/Yeasinoncode98/your-html-repo?style=for-the-badge&color=yellowgreen)](https://github.com/Yeasinoncode98/your-html-repo/stargazers)
