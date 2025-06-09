@@ -1,4 +1,4 @@
-# 🌟 Beautiful HTML Learning Project — by Yeasinoncode98 🌟
+# 🌟 Beautiful HTML Learning Lessons — by Yeasinoncode98 🌟
 
 [![Repo Size](https://img.shields.io/github/repo-size/Yeasinoncode98/Learning_HTML?style=for-the-badge&color=blueviolet)](https://github.com/Yeasinoncode98/Learning_HTML)
 [![GitHub stars](https://badgen.net/github/stars/Yeasinoncode98/Learning_HTML)](https://github.com/Yeasinoncode98/Learning_HTML/stargazers)
