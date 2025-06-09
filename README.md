@@ -18,7 +18,7 @@ This repo features clean, semantic, and beautifully structured HTML for beginner
 
 👉 [View on GitHub Pages](https://yeasinoncode98.github.io/Learning_HTML)
 
-> Make sure GitHub Pages is enabled in your repo settings under **Pages > Source: main branch**.
+> Make sure GitHub Pages is enabled in your repo settings under **Settings → Pages → Source: main branch**.
 
 ---
 
