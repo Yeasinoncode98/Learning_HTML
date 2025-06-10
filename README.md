@@ -9,7 +9,7 @@
 
 ## ✨ Overview
 
-Welcome to *Learning_HTML* — a personal project by [Yeasinoncode98](https://github.com/Yeasinoncode98) for mastering HTML!  
+Welcome to *Learning_HTML* — a personal learning lesson by [Yeasinoncode98](https://github.com/Yeasinoncode98) for mastering HTML!  
 This repo features clean, semantic, and beautifully structured HTML for beginners and developers to learn and build upon.
 
 ---
